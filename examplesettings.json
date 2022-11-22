@@ -1,0 +1,12 @@
+/*
+    RENAME THIS FILE TO settings.json
+*/
+
+{
+    "discordToken": "yourBotToken",
+    "discordID": "yourBotID",
+    "discordChannel": "yourDiscordChannel",
+
+    "memosDomain": "http://memosDomain.example", // No Trailing Slash
+    "memosKey": "yourMemosKey"
+}
